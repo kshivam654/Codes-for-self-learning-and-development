@@ -1,4 +1,4 @@
-# https://www.algoexpert.io/questions/Suffix%20Trie%20Construction
+    # https://www.algoexpert.io/questions/Suffix%20Trie%20Construction
 
 """
  The way we can build our Suffix-Trie is to use a bunch of hash tables or dictionaries. Where every node in the suffix
