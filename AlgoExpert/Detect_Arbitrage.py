@@ -5,8 +5,7 @@ import math
 # O(N^3) time and O(N^2) space
 def detectArbitrage(exchangeRates):
     # Write your code here.
-    logExchangeRates = convertToLogMatrix(exchangeRates)
-	
+	logExchangeRates = convertToLogMatrix(exchangeRates)
 	return foundNegativeWeightCycle(logExchangeRates, 0)
 
 def foundNegativeWeightCycle(graph, start):

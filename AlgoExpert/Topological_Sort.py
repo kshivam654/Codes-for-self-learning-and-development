@@ -121,3 +121,28 @@ def removeDeps(node, nodesWithNoPrereqs):
         if dep.numOfPrereqs == 0:
             nodesWithNoPrereqs.append(dep)
 
+
+#My work 
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        preMap = { i: [] for i in range(numCourses)}
+        for crs, prs in prerequisites:
+            preMap[crs].append(prs)
+        
+        visitSet = set()
+        
+        def dfs(crs):
+            if crs in visitSet:
+                return False
+            if preMap[crs] == []:
+                return True
+            visitSet.add(crs)
+            for pre in preMap[crs]:
+                if not dfs(pre): return False
+            visitSet.remove(crs)
+            preMap[crs] = []
+            return True
+        
+        for crs in range(numCourses):
+            if not dfs(crs): return False
+        return True
