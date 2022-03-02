@@ -5,7 +5,7 @@
 def cycleInGraph(edges):
     # Write your code here.
 	alreadyVisited = [False for i in range(len(edges))]
-    for i, x in enumerate(edges):
+	for i, x in enumerate(edges):
 		if alreadyVisited[i]:
 			continue
 		if not isCyclePresent(i, edges, set(), alreadyVisited):
