@@ -37,3 +37,20 @@ def convertToLogMatrix(matrix):
 			newMatrix[row].append(-math.log10(rate))
 			
 	return newMatrix
+
+
+#My approach: Bellman's fort algorithm
+#Time: O(E*K) and Space: O(V)
+class Solution:
+    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
+        prices = [float('inf') for _ in range(n)]
+        prices[src] = 0
+        for i in range(K+1):
+            tempPrice = prices.copy()
+            for s,d,p in flights:
+                if prices[s] == float('inf'):
+                    continue
+                if prices[s]+p < tempPrice[d]:
+                    tempPrice[d] = prices[s]+p
+            prices = tempPrice
+        return prices[dst] if prices[dst] != float('inf') else -1
