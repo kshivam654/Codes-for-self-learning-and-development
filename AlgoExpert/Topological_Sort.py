@@ -124,7 +124,7 @@ def removeDeps(node, nodesWithNoPrereqs):
 
 #My work 
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+    def canFinish(self, numCourses: int, prerequisites) -> bool:
         preMap = { i: [] for i in range(numCourses)}
         for crs, prs in prerequisites:
             preMap[crs].append(prs)
@@ -146,3 +146,6 @@ class Solution:
         for crs in range(numCourses):
             if not dfs(crs): return False
         return True
+
+
+https://www.techiedelight.com/find-all-possible-topological-orderings-of-dag/
