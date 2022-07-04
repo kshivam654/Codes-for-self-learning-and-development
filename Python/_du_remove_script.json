@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "628ed73db5e4e9e5e8abe7c3"
+  },
+  "course_id": {
+    "$oid": "6254b134b2097d80b3af9349"
+  },
+  "subject_id": {
+    "$oid": "628ec54549cdeff05805dfad"
+  },
+  "chapter_name": "Environmental Engineering",
+  "title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+  "video_link": "https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4",
+  "status": "Published",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1621339920000"
+    }
+  },
+  "pdf_path": "https://downloadexampur.appx.co.in/paidcourse2/0.41773618133103051621320091184.pdf",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653528381367"
+    }
+  },
+  "thumbnail": "https://downloadexampur.appx.co.in/paidcourse2/0.068116498161560961618039106504.jpg",
+  "logo_path": "https://downloadexampur.appx.co.in/paidcourse2/0.068116498161560961618039106504.jpg",
+  "old": {
+    "Sr_no": 10,
+    "Title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+    "material_type": "VIDEO",
+    "file_link": "<a href='18731' >18731</a>",
+    "thumbnail": "<a href='https://downloadexampur.appx.co.in/paidcourse2/0.068116498161560961618039106504.jpg' ><img src='https://downloadexampur.appx.co.in/paidcourse2/0.068116498161560961618039106504.jpg' width='100px' height='50px'/></a>",
+    "course_id": "Civil Engineering Foundation Batch",
+    "live_status": "Recorded",
+    "exam": "ENGINEERING",
+    "sortingparam": "1.00",
+    "subject": "Civil Engg. by Ketan Sir",
+    "topic": "Environmental Engineering",
+    "section": "",
+    "pdf_link": "<a href='https://downloadexampur.appx.co.in/paidcourse2/0.41773618133103051621320091184.pdf' >https://downloadexampur.appx.co.in/paidcourse2/0.41773618133103051621320091184.pdf</a>",
+    "date_and_time": "18-05-2021 at 12:12 PM",
+    "download_link": "<a href='https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4' >https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4</a>",
+    "file_size": "186",
+    "Delete": "<a href='deletelivecoursevideopdf3.php?id=18731&type=video' class='btn btn-danger deleteconfirm'>Delete</a>",
+    "Edit": "<a href='editlivecoursevideo3.php?id=18731' class='btn btn-primary'>Edit</a>",
+    "enable_btn": "<button class=\"btn btn-sm btn-warning enable-btn\" data-id=\"18731\" data-enable=\"0\">Disable</button>"
+  }
+},{
+  "_id": {
+    "$oid": "628ed73db5e4e9e5e8abe7c4"
+  },
+  "course_id": {
+    "$oid": "6254b134b2097d80b3af9349"
+  },
+  "subject_id": {
+    "$oid": "628ec54549cdeff05805dfad"
+  },
+  "chapter_name": "Environmental Engineering",
+  "title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+  "video_link": "https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4",
+  "status": "Published",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1621339920000"
+    }
+  },
+  "pdf_path": "https://downloadexampur.appx.co.in/paidcourse2/0.0588476839882514651621320097024.pdf",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653528381371"
+    }
+  },
+  "thumbnail": "https://downloadexampur.appx.co.in/paid_course/0.45989644752789371618038673385.jpg",
+  "logo_path": "https://downloadexampur.appx.co.in/paid_course/0.45989644752789371618038673385.jpg",
+  "old": {
+    "Sr_no": 11,
+    "Title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+    "material_type": "VIDEO",
+    "file_link": "<a href='18731' >18731</a>",
+    "thumbnail": "<a href='https://downloadexampur.appx.co.in/paid_course/0.45989644752789371618038673385.jpg' ><img src='https://downloadexampur.appx.co.in/paid_course/0.45989644752789371618038673385.jpg' width='100px' height='50px'/></a>",
+    "course_id": "Civil Engineering Foundation Batch",
+    "live_status": "Recorded",
+    "exam": "ENGINEERING",
+    "sortingparam": "2.00",
+    "subject": "Civil Engg. by Ketan Sir",
+    "topic": "Environmental Engineering",
+    "section": "",
+    "pdf_link": "<a href='https://downloadexampur.appx.co.in/paidcourse2/0.0588476839882514651621320097024.pdf' >https://downloadexampur.appx.co.in/paidcourse2/0.0588476839882514651621320097024.pdf</a>",
+    "date_and_time": "18-05-2021 at 12:12 PM",
+    "download_link": "<a href='https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4' >https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4</a>",
+    "file_size": "186",
+    "Delete": "<a href='deletelivecoursevideopdf3.php?id=18732&type=video' class='btn btn-danger deleteconfirm'>Delete</a>",
+    "Edit": "<a href='editlivecoursevideo3.php?id=18732' class='btn btn-primary'>Edit</a>",
+    "enable_btn": "<button class=\"btn btn-sm btn-warning enable-btn\" data-id=\"18732\" data-enable=\"0\">Disable</button>"
+  }
+},{
+  "_id": {
+    "$oid": "628ed73db5e4e9e5e8abe7c5"
+  },
+  "course_id": {
+    "$oid": "6254b134b2097d80b3af9349"
+  },
+  "subject_id": {
+    "$oid": "628ec54549cdeff05805dfad"
+  },
+  "chapter_name": "Environmental Engineering",
+  "title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+  "video_link": "https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4",
+  "status": "Published",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1621339920000"
+    }
+  },
+  "pdf_path": "https://downloadexampur.appx.co.in/paidcourse2/0.83953903347470841621320108034.pdf",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653528381375"
+    }
+  },
+  "thumbnail": "https://downloadexampur.appx.co.in/paid_course/0.088920874868642751618038685351.jpg",
+  "logo_path": "https://downloadexampur.appx.co.in/paid_course/0.088920874868642751618038685351.jpg",
+  "old": {
+    "Sr_no": 12,
+    "Title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+    "material_type": "VIDEO",
+    "file_link": "<a href='18731' >18731</a>",
+    "thumbnail": "<a href='https://downloadexampur.appx.co.in/paid_course/0.088920874868642751618038685351.jpg' ><img src='https://downloadexampur.appx.co.in/paid_course/0.088920874868642751618038685351.jpg' width='100px' height='50px'/></a>",
+    "course_id": "Civil Engineering Foundation Batch",
+    "live_status": "Recorded",
+    "exam": "ENGINEERING",
+    "sortingparam": "3.00",
+    "subject": "Civil Engg. by Ketan Sir",
+    "topic": "Environmental Engineering",
+    "section": "",
+    "pdf_link": "<a href='https://downloadexampur.appx.co.in/paidcourse2/0.83953903347470841621320108034.pdf' >https://downloadexampur.appx.co.in/paidcourse2/0.83953903347470841621320108034.pdf</a>",
+    "date_and_time": "18-05-2021 at 12:12 PM",
+    "download_link": "<a href='https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4' >https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4</a>",
+    "file_size": "186",
+    "Delete": "<a href='deletelivecoursevideopdf3.php?id=18733&type=video' class='btn btn-danger deleteconfirm'>Delete</a>",
+    "Edit": "<a href='editlivecoursevideo3.php?id=18733' class='btn btn-primary'>Edit</a>",
+    "enable_btn": "<button class=\"btn btn-sm btn-warning enable-btn\" data-id=\"18733\" data-enable=\"0\">Disable</button>"
+  }
+},{
+  "_id": {
+    "$oid": "628ed73db5e4e9e5e8abe7c6"
+  },
+  "course_id": {
+    "$oid": "6254b134b2097d80b3af9349"
+  },
+  "subject_id": {
+    "$oid": "628ec54549cdeff05805dfad"
+  },
+  "chapter_name": "Environmental Engineering",
+  "title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+  "video_link": "https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4",
+  "status": "Published",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1621339920000"
+    }
+  },
+  "pdf_path": "https://downloadexampur.appx.co.in/paidcourse2/0.85144436448689431621320120192.pdf",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653528381379"
+    }
+  },
+  "thumbnail": "https://downloadexampur.appx.co.in/paidcourse2/0.85858671970561341618039074281.jpg",
+  "logo_path": "https://downloadexampur.appx.co.in/paidcourse2/0.85858671970561341618039074281.jpg",
+  "old": {
+    "Sr_no": 13,
+    "Title": "Foundation batch |Civil Engg.| Environmental Engg.| From College Student to IES Level | by Ketan Sir",
+    "material_type": "VIDEO",
+    "file_link": "<a href='18731' >18731</a>",
+    "thumbnail": "<a href='https://downloadexampur.appx.co.in/paidcourse2/0.85858671970561341618039074281.jpg' ><img src='https://downloadexampur.appx.co.in/paidcourse2/0.85858671970561341618039074281.jpg' width='100px' height='50px'/></a>",
+    "course_id": "Civil Engineering Foundation Batch",
+    "live_status": "Recorded",
+    "exam": "ENGINEERING",
+    "sortingparam": "4.00",
+    "subject": "Civil Engg. by Ketan Sir",
+    "topic": "Environmental Engineering",
+    "section": "",
+    "pdf_link": "<a href='https://downloadexampur.appx.co.in/paidcourse2/0.85144436448689431621320120192.pdf' >https://downloadexampur.appx.co.in/paidcourse2/0.85144436448689431621320120192.pdf</a>",
+    "date_and_time": "18-05-2021 at 12:12 PM",
+    "download_link": "<a href='https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4' >https://vod.teachx.in/videos/GPknmGjD-5S4ICibK.mp4</a>",
+    "file_size": "186",
+    "Delete": "<a href='deletelivecoursevideopdf3.php?id=18734&type=video' class='btn btn-danger deleteconfirm'>Delete</a>",
+    "Edit": "<a href='editlivecoursevideo3.php?id=18734' class='btn btn-primary'>Edit</a>",
+    "enable_btn": "<button class=\"btn btn-sm btn-warning enable-btn\" data-id=\"18734\" data-enable=\"0\">Disable</button>"
+  }
+}]
